@@ -1,0 +1,8 @@
+csv
+numpy
+pandas
+tkinter
+PIL
+date
+time
+password = 1234
